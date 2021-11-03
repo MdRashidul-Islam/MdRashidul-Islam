@@ -1,4 +1,4 @@
-### Hi there 👋, I am Rashidul Islam
+### I am Rashidul Islam
 #### I am a Professional Web Application Developer
 ![I am a Professional Web Application Developer](https://scontent.fdac22-1.fna.fbcdn.net/v/t1.6435-9/s960x960/94506333_358355398456549_2633596327258226688_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeEmBUDUhrnS_AnmbMwoaduhzEW4W2LM3D3MRbhbYszcPVjDLF0EdiShzOYmaVSU4Hp1uMrHju4p8gBHm92FDMNh&_nc_ohc=iJNv9-ScnF8AX8UfUJl&_nc_ht=scontent.fdac22-1.fna&oh=4731b7bf6432af2cd34f7360a6330a7b&oe=61A85E68)
 
