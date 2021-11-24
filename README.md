@@ -62,9 +62,8 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+<a href="">
+    <img src="https://komarev.com/ghpvc/?username=rashidulrony">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/rashidulrony?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=rashidulrony&theme=dracula" />
