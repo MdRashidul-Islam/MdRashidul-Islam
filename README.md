@@ -28,6 +28,7 @@
 ## 📊 My Github Stats
 <br/>
 <img alt="rashidulrony" src="https://github-readme-stats.vercel.app/api?username=rashidulrony&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117">
+<img alt="rashidulrony" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidulrony&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidulrony&show_icons=true&locale=en&layout=compact" alt="rashidulrony" /></p>
 
