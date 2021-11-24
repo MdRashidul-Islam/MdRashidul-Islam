@@ -64,10 +64,3 @@
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
 <a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashidulrony&show_icons=true&locale=en&layout=compact" alt="rashidulrony" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashidulrony&show_icons=true&locale=en" alt="rashidulrony" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidulrony&" alt="rashidulrony" /></p>
