@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on
-  **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+  **[Covid-19 Tracker]()**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -26,8 +26,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/SubhamRaoniar28/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidulrony&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rashidulrony's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rashidulrony&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
