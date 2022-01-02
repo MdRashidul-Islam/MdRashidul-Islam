@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at
   **[My Portfolio](https://rashidul-islam.netlify.app/)**
 
-- 📫 How to reach me **https://mail.google.com/mail/u/0/#inbox**
+- 📫 How to reach me **rashidulislam.official1@gmail.com**
 
 - ⚡ Fun fact **I play games and go to the GYM very often.**
 
