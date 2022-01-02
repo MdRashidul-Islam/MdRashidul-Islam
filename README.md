@@ -42,9 +42,9 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/md-rashidul-islam-/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "rashidulislam.official1@gmail.com target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
- <a href = "https://www.facebook.com/rashidulrony2/  target="_blank "><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+<a href = "https://www.linkedin.com/in/md-rashidul-islam-/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "rashidulislam.official1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+ <a href = "https://www.facebook.com/rashidulrony2/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <!-- <a href = "https://twitter.com"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 
