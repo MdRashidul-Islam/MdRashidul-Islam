@@ -39,7 +39,7 @@
 <br/>
 <br/>
 </p>
-##Connect with me:
+## Contact Me
 
 <p align="left">
 
