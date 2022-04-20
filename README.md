@@ -39,7 +39,7 @@
 <br/>
 <br/>
 </p>
-## Connect with me:
+##Connect with me:
 
 <p align="left">
 
