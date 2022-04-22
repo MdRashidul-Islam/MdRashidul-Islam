@@ -39,8 +39,9 @@
 <br/>
 <br/>
 </p>
-## Contact Me
-## 📊 My Github Stats
+
+
+### Contact Me
 
 <p align="left">
 
